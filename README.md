@@ -4,7 +4,6 @@
 ## I'm a Learner and Software Developer!!
 - 🎓I am a fourth year student at FPT University, Ha Noi, Viet Nam.
 - ⚡ Fun fact: I like to read novel and listen to music (specially rap)
-- 🧑‍💼 **[My resume](https://drive.google.com/drive/folders/1ltxm1RCwwOp4udOLUEKTdnY92VzcR9gY?usp=sharing)**
 
 ## Connect with me:
 - Personal email: **hideongloomist@gmail.com**
