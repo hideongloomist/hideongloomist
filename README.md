@@ -13,3 +13,5 @@
 ## Github
 - Main github: **https://github.com/hideongloomist**
 - Education github: **https://github.com/ducnguyenedures**
+- Gitlab: **https://gitlab.com/hideongloomist**
+- Gist: **https://gist.github.com/hideongloomist**
