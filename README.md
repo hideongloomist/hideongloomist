@@ -15,3 +15,9 @@
 - Education github: **https://github.com/ducnguyenedures**
 - Gitlab: **https://gitlab.com/hideongloomist**
 - Gist: **https://gist.github.com/hideongloomist**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hideongloomist&show_icons=true&locale=en&layout=compact" alt="hideongloomist" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hideongloomist&show_icons=true&locale=en" alt="hideongloomist" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hideongloomist&" alt="hideongloomist" /></p>
