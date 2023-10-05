@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hideongloomist&show_icons=true&locale=en" alt="hideongloomist" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hideongloomist&" alt="hideongloomist" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=hideongloomist" alt="hideongloomist" /></p>
