@@ -1,5 +1,4 @@
-<h1><b> Hi there, I'm Nguyễn Minh Đức</b>
-    <img height="50px" src="https://media.giphy.com/media/M51FEiXf0rhmSQekQN/giphy.gif" width="50px"></h1>
+<h1><b> Hi there, I'm Nguyễn Minh Đức</b></h1>
 
 ## Connect with me:
 - Personal email: **hideongloomist@gmail.com**
