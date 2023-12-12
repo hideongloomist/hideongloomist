@@ -1,9 +1,11 @@
 <h1><b> Hi there, I'm Nguyễn Minh Đức</b></h1>
 
+Online CV: https://hideongloomist.github.io/hideongloomist/
+
 ## Connect with me:
 - Personal email: **hideongloomist@gmail.com**
 - Business email: **duc.nguyen.works@gmail.com**
-- Note: No trust information, No work. Thanks you!!!
+
 
 ## Github
 - Main github: **https://github.com/hideongloomist**
